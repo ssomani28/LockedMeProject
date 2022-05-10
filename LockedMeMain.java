@@ -43,7 +43,7 @@ private static void displayMenu() {
 	System.out.println("**********************************************************");
 	System.out.println("\t\tWelcome to LockedMe.com");
 	System.out.println("**********************************************************");
-	System.out.println("\t\t Developed By : Mr. Siddhant Somani   Batch: March 4 Cohort");
+	System.out.println("\t\t Developed By : Mr. Siddhant Somani   Batch: MS FSD Apr 2022 cohort 3");
 	System.out.println("\t\t1. Create New File");
 	System.out.println("\t\t2. Delete a File");
 	System.out.println("\t\t3. Search a File");
